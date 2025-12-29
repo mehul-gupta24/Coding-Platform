@@ -219,4 +219,4 @@ The platform offers a seamless, LeetCode-inspired workflow for coding practice, 
 - Click the **Profile** section in the top-right corner (available for logged-in users) to access your personalized dashboard.
 - View solved problems, submission history, success rates, performance metrics (e.g., runtime, memory), streaks, and category-wise completion rates.
 
-![Login Page](assets/images/profile.png)
+<!-- ![Login Page](assets/images/profile.png) -->
