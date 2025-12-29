@@ -114,7 +114,6 @@ Users write code (saved in local storage), submit via `POST /api/submissions`, a
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/maheshkrishnam/Coding_Platform.git
    cd leetcode-clone
    ```
 
